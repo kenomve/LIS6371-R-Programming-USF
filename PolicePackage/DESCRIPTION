@@ -1,0 +1,19 @@
+Package: PoliceStory
+
+Type: Package
+
+Title: What the Package Does (Title Case)
+
+Version: 0.0.0.9000
+
+Author: Kelsey Velez <velezkelsey@gmail.com> [aut,cre]
+
+Maintainer: The package maintainer <yourself@somewhere.net>
+
+Description:    PoliceStory packages data connected through analysis of variables related to police involved shooting incidents between 2009 and 2024.Source data from Police Data Initiative is connected by race, gender, tenure, and age to provide insight on police vulnerabilities and impact on private citizens.
+
+License: Creative Commons
+
+Encoding: UTF-8
+
+LazyData: true
